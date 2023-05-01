@@ -1,3 +1,5 @@
+![celer logo](https://github.com/celer-inc/celer-inc/blob/main/1080x360.jpg)
+
 # Celer
 
 Celer is a technology company focused on developing cutting-edge solutions to help businesses succeed in today's fast-paced digital landscape. Our flagship product is a software solution that translates XML data into SQL queries, making it easy to query and analyze data stored in XML format.
