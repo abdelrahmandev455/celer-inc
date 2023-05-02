@@ -8,7 +8,6 @@ In addition to our XML-to-SQL technology, we also utilize Redis, an in-memory da
 
 ## Links
 
-- [Open Collective](https://opencollective.com/celer)
 - [Facebook](https://m.facebook.com/profile.php?eav=AfaaL_QdGWHAP6XWCuJMlf-Y9CymmYlNNvFMdGYH0jmDr6JR0RYm8S3eJvUyx8O_NiA&paipv=0)
 - [Twitter](https://twitter.com/Celer730441)
 
