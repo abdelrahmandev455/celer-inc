@@ -1,4 +1,4 @@
-![celer logo](https://github.com/celer-inc/celer-inc/blob/main/1080x360.jpg)
+![celer's logo](https://github.com/celer-inc/celer-inc/blob/main/1080x360.jpg)
 
 # Celer
 
